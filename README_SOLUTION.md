@@ -1,6 +1,9 @@
 # SEG3502 – Lab 8 : serveur GraphQL Employee (Spring Boot + Kotlin + MongoDB)
 
-Auteur : Anwar Issaoui (aissa050@uottawa.ca) — Numéro étudiant : ______
+Étudiant 1 : Anwar — N° 300254189  
+Étudiant 2 : Manasse — N° 300268472  
+Dépôt GitHub : https://github.com/Anwarito-lbd/SEG3502-Lab8.git  
+Rapport : RAPPORT_LAB8.pdf
 
 ## Travail réalisé
 - `server/src/main/resources/graphql/employee.graphqls` : type `Employee`, input `CreateEmployeeInput`,
